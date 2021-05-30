@@ -19,7 +19,7 @@ Hi there, I'm **Ricardo Heck**, a **Full-Stack WebDev** and a **Software Enginee
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently focusing on buils Restful API's with Java / Springboot and NodeJS / Express.
+- 🌱 I’m currently focusing on build Restful API's with Java/Springboot and NodeJS/Express.
 - 🤔 I love technology, and music.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ricardoheckalves@icloud.com to reach me.
