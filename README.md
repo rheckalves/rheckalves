@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Ricardo Heck**, a **Full-Stack WebDev** and a **Software Engineering student** 🚀 from Brazil, currently, I'm a Tryber Student Member 🙍🏽‍♂️ [@rheckalves](https://github.com/rheckalves).
+Hi there, I'm **Ricardo Heck**, a **Full-Stack WebDev** and a **Software Engineering student** 🚀 from Brazil, currently, I'm a Trybe Student 🙍🏽‍♂️ [@tryber](https://github.com/tryber).
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
