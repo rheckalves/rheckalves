@@ -15,13 +15,13 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardoheckalves/">
-    <img alt="Ricardo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />
+    <img align="left" alt="Ricardo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />
   </a>
   <a href="https://www.instagram.com/ricardoheckbass/">
-    <img alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:white;" />
+    <img align="left" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:white;" />
   </a>
   <a href="https://www.facebook.com/ricardoheckalves">
-    <img alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color:white;" />
+    <img align="left" alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color:white;" />
   </a>
 </div>
 
