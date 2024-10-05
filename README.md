@@ -1,19 +1,4 @@
 
-Hey 👋, I'm Ricardo Heck!
-
-<a href="https://www.linkedin.com/in/ricardoheckalves/">
-  <img align="left" alt="Ricardo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ricardoheckbass/">
-  <img align="left" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ricardoheckalves">
-  <img align="left" alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br />
-<br />
-
 Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, passionate about scalable solutions and cutting-edge technologies. Currently, I am focusing on **Java**, **Spring Boot**, **AWS Cloud**, **Kafka**, **MongoDB**, and **SQL** to build robust back-end systems.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -26,6 +11,17 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 - ☁️ Skilled in **AWS Cloud** services for scalable infrastructure.
 - 💬 Feel free to ask me anything about back-end development or system architecture.
 - 📫 You can reach me via email: ricardoheckalves@icloud.com.
+</br>
+</br>
+<a href="https://www.linkedin.com/in/ricardoheckalves/">
+  <img align="left" alt="Ricardo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ricardoheckbass/">
+  <img align="left" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ricardoheckalves">
+  <img align="left" alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 **Languages and Tools:**  
 
