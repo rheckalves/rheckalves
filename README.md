@@ -13,17 +13,12 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 - 📫 You can reach me via email: ricardoheckalves@icloud.com.
 <br />
 
-<div align="center">
   <a href="https://www.linkedin.com/in/ricardoheckalves/">
-    <img alt="Ricardo's LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left alt="Ricardo's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ricardoheckbass/">
-    <img alt="Ricardo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
+    <img align="left alt="Ricardo's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ricardoheckalves">
-    <img alt="Ricardo's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
-  </a>
-</div>
 
 <br />
 <br />
