@@ -13,7 +13,6 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 - 📫 You can reach me via email: ricardoheckalves@icloud.com.
 <br />
 
-<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/ricardoheckalves/">
     <img alt="Ricardo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />
   </a>
@@ -23,7 +22,6 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
   <a href="https://www.facebook.com/ricardoheckalves">
     <img alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color:white;" />
   </a>
-</div>
 
 <br />
 <br />
