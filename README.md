@@ -11,20 +11,22 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 - ☁️ Skilled in **AWS Cloud** services for scalable infrastructure.
 - 💬 Feel free to ask me anything about back-end development or system architecture.
 - 📫 You can reach me via email: ricardoheckalves@icloud.com.
-</br>
+<br />
 
-<a href="https://www.linkedin.com/in/ricardoheckalves/">
-  <img align="center" alt="Ricardo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ricardoheckbass/">
-  <img align="center" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ricardoheckalves">
-  <img align="center" alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardoheckalves/">
+    <img alt="Ricardo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />
+  </a>
+  <a href="https://www.instagram.com/ricardoheckbass/">
+    <img alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:white;" />
+  </a>
+  <a href="https://www.facebook.com/ricardoheckalves">
+    <img alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color:white;" />
+  </a>
+</div>
 
-</br>
-</br>
+<br />
+<br />
 
 **Languages and Tools:**  
 
