@@ -15,10 +15,10 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardoheckalves/">
-    <img alt="Ricardo's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_white.svg" />
+    <img alt="Ricardo's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials_white.svg" />
   </a>
   <a href="https://www.instagram.com/ricardoheckbass/">
-    <img alt="Ricardo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon_white.svg" />
+    <img alt="Ricardo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
   </a>
   <a href="https://www.facebook.com/ricardoheckalves">
     <img alt="Ricardo's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
