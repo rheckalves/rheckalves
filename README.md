@@ -13,15 +13,15 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 - 📫 You can reach me via email: ricardoheckalves@icloud.com.
 <br />
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/ricardoheckalves/">
-    <img align="left" alt="Ricardo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />
+    <img alt="Ricardo's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />
   </a>
   <a href="https://www.instagram.com/ricardoheckbass/">
-    <img align="left" alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:white;" />
+    <img alt="Ricardo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:white;" />
   </a>
   <a href="https://www.facebook.com/ricardoheckalves">
-    <img align="left" alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color:white;" />
+    <img alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color:white;" />
   </a>
 </div>
 
