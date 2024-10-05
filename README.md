@@ -15,7 +15,7 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardoheckalves/">
-    <img alt="Ricardo's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon_white.svg" />
+    <img alt="Ricardo's LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ricardoheckbass/">
     <img alt="Ricardo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
