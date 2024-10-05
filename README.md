@@ -12,6 +12,7 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 - 💬 Feel free to ask me anything about back-end development or system architecture.
 - 📫 You can reach me via email: ricardoheckalves@icloud.com.
 </br>
+<center>
 <a href="https://www.linkedin.com/in/ricardoheckalves/">
   <img align="left" alt="Ricardo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,7 +22,8 @@ Hi there, I'm **Ricardo Heck**, a **Back-End Software Engineer** from Brazil, pa
 <a href="https://www.facebook.com/ricardoheckalves">
   <img align="left" alt="Ricardo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+</center>
+</br>
 </br>
 
 **Languages and Tools:**  
